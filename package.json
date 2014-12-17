@@ -1,0 +1,20 @@
+{
+  "name": "arthurfigueiredo.github.io",
+  "title": "Arthur Figueiredo",
+  "description": "Arthur Figueiredo personal website",
+  "author": "Arthur Figueiredo Nunes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurfigueiredo/arthurfigueiredo.github.io.git"
+  },
+  "homepage": "http://arthurfigueiredo.github.io/",
+  "version": "2.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.7",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-uncss": "~0.3.8"
+  }
+}

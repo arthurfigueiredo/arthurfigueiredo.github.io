@@ -1,0 +1,205 @@
+.color1 {
+  color: #09afad;
+}
+.color2 {
+  color: #031634;
+}
+.color3 {
+  color: #da222b;
+}
+.font1 {
+  font-family: 'Open Sans', sans-serif;
+}
+.bold {
+  font-weight: bold;
+}
+.bg-cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* ==========================================================
+! 2. General
+========================================================== */
+body {
+  background-image: url('../img/bg-james3.jpg');
+  background-color: #031634;
+}
+h1,
+h2 {
+  color: #09afad;
+}
+h3 {
+  color: #031634;
+}
+.btn-default {
+  background: #031634;
+  border: #031634;
+}
+.btn-default:hover {
+  background: #000012 !important;
+}
+.btn-primary {
+  background: #09afad;
+  border: #09afad;
+}
+.btn-primary:hover {
+  background: #009e9c !important;
+}
+.btn-secondary {
+  background: #da222b;
+  border: #da222b;
+}
+.btn-secondary:hover {
+  background: #c9111a !important;
+}
+/* ==========================================================
+! 3. Tipography
+========================================================== */
+p {
+  color: #333333;
+}
+.intro-title1 {
+  color: #222222;
+  border-bottom: 1px solid #09afad;
+}
+.intro-title2 {
+  color: #555555;
+}
+.section-title {
+  color: #000523;
+}
+.section-item-title-1 {
+  color: #031634;
+}
+/* ==========================================================
+! 4. Page Loader 
+========================================================== */
+#page-loader {
+  background: #000523;
+  color: #09afad;
+}
+/* ==========================================================
+! 5. Header Colors
+========================================================== */
+.top-color {
+  background: #09afad;
+}
+.top-color1 {
+  background: #09afad;
+}
+.top-color2 {
+  background: #031634;
+}
+.top-color3 {
+  background: #da222b;
+}
+/* ==========================================================
+! 6. Side Menu
+========================================================== */
+.side-menu-button {
+  background: #333;
+  opacity: 0.9;
+}
+.side-menu {
+  background: #111;
+}
+.side-menu-nav li a:hover {
+  color: #fff;
+}
+.side-menu-nav li.active a {
+  color: #fff;
+}
+#side-menu-close {
+  color: #fff;
+}
+/* ==========================================================
+! 7. Profile Intro
+========================================================== */
+.profile-pic {
+  border: 5px solid #09afad;
+}
+/* ==========================================================
+! 8. Vertical Timeline
+========================================================== */
+.timeline-wrap {
+  background: #09afad;
+}
+.line-content {
+  color: #333333;
+}
+/* ==========================================================
+! 9. Section: Education and Work Experience
+========================================================== */
+.graduation-time,
+.job {
+  color: #777777;
+}
+/* ==========================================================
+! 10. Section: Skills
+========================================================== */
+.progress > .progress-completed {
+  color: #888;
+}
+.progress-bar {
+  background: #09afad;
+}
+.progress-bar-2 {
+  background: #031634;
+}
+.progress-bar-3 {
+  background: #da222b;
+}
+/* ==========================================================
+! 11. Section: Portfolio
+========================================================== */
+.portfolio .line-content {
+  height: 255px;
+}
+.portfolio-item .hover-bg {
+  background: #008d8b;
+}
+.bx-prev,
+.bx-next {
+  background: #031634;
+}
+.bx-prev:hover,
+.bx-next:hover {
+  color: #fff;
+  background: #000001;
+}
+/* ==========================================================
+! 12. Section: Contact
+========================================================== */
+input.form-control,
+textarea.form-control {
+  background: #09afad;
+  border: 0px;
+}
+.form-send {
+  background: #031634;
+  color: #fff;
+}
+.contact-subtitle-1 {
+  color: #031634;
+}
+.modal-content .modal-title {
+  color: #031634;
+}
+/* ==========================================================
+! Section: Thank you
+========================================================== */
+.thank-you {
+  color: #888888;
+}
+/* ==========================================================
+! 14. Footer
+========================================================== */
+#footer {
+  background: #D04649;
+  color: #fff;
+}
+#footer p {
+  color: #fff;
+}
