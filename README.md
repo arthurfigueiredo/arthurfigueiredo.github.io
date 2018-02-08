@@ -3,11 +3,13 @@ arthurfigueiredo.github.io
 
 ## Performance (Only 0.6s load time)
 
+Github Pages don't allow Leverage browser caching.
+
 <a href="https://gtmetrix.com/reports/arthurfigueiredo.github.io/BFWF2yXi"><img width="728" src="https://arthurfigueiredo.github.io/assets/img/readme/gtmetrix.png" alt="GTMetrix"></a>
 
-eg.: Github Pages don't allow Leverage browser caching.
-
 ## Accessibility
+
+Document checking completed. No errors or warnings to show
 
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Farthurfigueiredo.github.io%2F"><img width="728" src="https://arthurfigueiredo.github.io/assets/img/readme/w3cvalidator.png" alt="GTMetrix"></a>
 
