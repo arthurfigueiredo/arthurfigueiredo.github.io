@@ -27,7 +27,7 @@
 
 body {
     font-family: 'Open Sans',sans-serif;
-    background: #3b658a url(../img/background2.jpg) repeat-x center top fixed;
+    background: #3b658a;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
